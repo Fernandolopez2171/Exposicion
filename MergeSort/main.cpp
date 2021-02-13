@@ -1,7 +1,7 @@
 #include <iostream>
 #include <conio.h>
 using namespace std;
-
+//
 void print(int A[], int size) {
 	for (int x = 0; x < size; x++) {
 		cout << "[ " << A[x] << " ]";
